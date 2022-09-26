@@ -1,4 +1,4 @@
-# Lego Project UI 💵
+# Lego Project UI 🤖
 
 Lego Project UI, es un diseño de pagina web, inspirado en la pagina web oficial de Lego.
 
